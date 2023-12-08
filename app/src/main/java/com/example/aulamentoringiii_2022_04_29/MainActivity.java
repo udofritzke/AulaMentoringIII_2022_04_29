@@ -7,6 +7,10 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
+/*
+ alteração de código
+ */
+
 public class MainActivity extends AppCompatActivity {
     TextView texto;
     @Override
